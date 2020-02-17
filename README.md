@@ -8,8 +8,8 @@ Step 1.Before You Begin (COMPLETED)
     5. Add your files to this folder.
     6. Push the above changes to GitHub.
 
-Step 2. Data Modeling
-    1. 
+Step 2. Data Modeling (COMPLETED)
+    1. Inspect the CSVs and sketch out an ERD of the tables.
 
 Step 3. Data Engineering (COMPLETED)
     1. Use the information you have to create a table schema for each of the six CSV files. 
