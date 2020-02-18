@@ -16,7 +16,7 @@ Step 3. Data Engineering (COMPLETED)
         1.1 Remember to specify data types, primary keys, foreign keys, and other constraints.
     2. Import each CSV file into the corresponding SQL table.
 
-Step 4. Data Analysis (First three completed so far)
+Step 4. Data Analysis (COMPLETED)
     1. List the following details of each employee: employee number, last name, first name, gender, and salary.
     2. List employees who were hired in 1986.
     3. List the manager of each department with the following information:
